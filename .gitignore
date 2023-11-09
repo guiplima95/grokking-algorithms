@@ -27,3 +27,6 @@
 /src/UnderstandingAlgorithms/BinarySearch/obj/Release/net7.0/BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
 /src/.vs/UnderstandingAlgorithms/v17/.suo
 /src/UnderstandingAlgorithms/BinarySearch/obj/Release/net7.0/BinarySearch.GlobalUsings.g.cs
+/src/.vs
+/src/UnderstandingAlgorithms/BinarySearch/bin/Debug/net7.0
+/src/UnderstandingAlgorithms/BinarySearch/bin/Debug/net7.0/BinarySearch.deps.json
