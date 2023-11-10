@@ -1,5 +1,7 @@
 # Entendendo Algoritmos
 
+![image](https://github.com/guiplima95/grokking-algorithms/assets/31569208/60497b09-7894-47dc-a551-9b0582aca8bb)
+
 
 Este repositório contém uma série de exemplos de algoritmos e estruturas de dados em C#. Ele é baseado no livro "Entendendo Algoritmos" de Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest e Clifford Stein.
 
